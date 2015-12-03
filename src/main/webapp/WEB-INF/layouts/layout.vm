@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>Spring & Velocity</title>
+</head>
+<body>
+<div>
+    $screen_content
+</div>
+</body>
+</html>
